@@ -1,0 +1,3 @@
+## DAY OF DEATH 
+
+this is little part of learning based c++ syntax and bla bla bla ...
